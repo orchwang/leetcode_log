@@ -18,6 +18,8 @@ Explanation:
 62 + 82 = 100
 12 + 02 + 02 = 1
 """
+
+
 class Solution(object):
     def isHappy(n):
         """
